@@ -1,0 +1,19 @@
+#PhantomBot Configuration File
+#Tue Apr 10 01:31:33 CEST 2018
+apioauth=oauth\:naipkn96q05izler5fflx28otw4i2w
+baseport=25000
+channel=eichiviech1990
+msglimit30=19.0
+musicenable=true
+oauth=oauth\:kp4dtz8zl6h7jbhxezlm3pkmrxyfpe
+owner=eichiviech1990
+panelpassword=Kekse1337
+paneluser=Eichi1990
+usehttps=false
+user=eichiviech1990
+webauth=qNy5rjhqzgXbqIc6csuadOCiYqh50N
+webauthro=WszbTr115Ik29Mc0EVDTubWhx0PSyh
+webenable=true
+whisperlimit60=60.0
+ytauth=t6DmEjdS2Njc0yCt8GcvcinWSsA7pw
+ytauthro=ntWEdjp82hfBJCaqj63Sb0iasrTf0N

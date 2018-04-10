@@ -1,0 +1,6 @@
+[04-09-2018 @ 23:31:36.113 GMT] [init.js:366] Bot modules loaded. Initializing main functions...
+[04-09-2018 @ 23:31:38.269 GMT] [logging.js:194] Starting Log Rotation
+[04-09-2018 @ 23:31:38.273 GMT] [logging.js:206] Finished Log Rotation
+[04-10-2018 @ 01:35:01.705 GMT+02:00] [init.js:366] Bot modules loaded. Initializing main functions...
+[04-10-2018 @ 01:35:03.384 GMT+02:00] [logging.js:194] Starting Log Rotation
+[04-10-2018 @ 01:35:03.386 GMT+02:00] [logging.js:206] Finished Log Rotation
